@@ -1,50 +1,37 @@
 <!--
-  Hey! Welcome to my profile 👋
-  This README is animated - check it out!
+  Welcome to my corner of GitHub 👋
 -->
 
 <div align="center">
 
 # abcdefak
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Building+the+future+with+code+%26+AI;🦀+Rust+Enthusiast;⬢+Node.js+Developer;🤖+AI-Powered+Coding)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=800&color=58A6FF&center=true&vCenter=true&width=400&lines=Building+with+code+%26+AI;🦀+Rust+%7C+⬢+Node.js;🤖+AI+Enthusiast)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="wave" width="40" height="40"> Hi, I'm abcdefak!
+## 👋 About Me
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-abcdefak87-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abcdefak87)
-[![Location](https://img.shields.io/badge/Location-Jawa%20Timur%2C%20ID-34D399?style=for-the-badge)](https://goo.gl/maps/)
+**Location:** Jawa Timur, ID  
+**Focus:** Building things that matter
 
 </div>
 
----
-
-## 🧠 Interests
-
-<div align="center">
-
-| 🤖 AI & ML | 🦀 Rust | ⬢ Node.js | 🔌 Networks |
-|:---:|:---:|:---:|:---:|
-| Building with AI assistance | Systems programming | Web & APIs | Network automation |
-
-</div>
+> _Human creativity + Machine efficiency = Better code_
 
 ---
 
-## 🚀 Currently
-
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api?hideBorder=true&theme=dark" alt="Jokes Card" width="400">
-</p>
+## 🧠 What I Do
 
 <div align="center">
 
-> _Learning, building, and experimenting with AI tools._
+| 🦀 **Rust** | ⬢ **Node.js** | 🤖 **AI** |
+|:---:|:---:|:---:|
+| Systems programming | Web & APIs | AI-powered development |
 
 </div>
 
@@ -54,76 +41,56 @@
 
 <div align="center">
 
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 🎯 Featured Projects
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abcdefak87&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF)
+### [**🎥 CCTV**](https://github.com/abcdefak87/cctv)
+Secure video streaming system with Golang backend
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abcdefak87&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF)
+### [**🌐 Landing Page**](https://github.com/abcdefak87/landingpage)
+Modern React + Three.js landing page with animations
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=abcdefak87&theme=radical&hide_border=true&background=0D1117)
+### [**🤖 MikroTik Bot**](https://github.com/abcdefak87/mikrotik-auto-backup-bot)
+Automated router backup via Telegram
+
+### [**🚀 DeployClaw**](https://github.com/abcdefak87/deployclaw)
+Deployment automation for OpenClaw
 
 </div>
 
 ---
 
-## 🎯 Projects
+## 📫 Connect
 
 <div align="center">
 
-| 📦 Project | Description | Stack |
-|---|---|---|
-| [**CCTV**](https://github.com/abcdefak87/cctv) | Secure CCTV streaming | 🦀 Go + Fiber |
-| [**Landing Page**](https://github.com/abcdefak87/landingpage) | Baltun.net modern landing | ⬢ React + Three.js |
-| [**MikroTik Bot**](https://github.com/abcdefak87/mikrotik-auto-backup-bot) | Auto backup via Telegram | ⬢ Node.js + SSH |
-| [**DeployClaw**](https://github.com/abcdefak87/deployclaw) | Deployment automation | 🐳 Docker + Shell |
-
-</div>
-
----
-
-## ☕ Support My Work
-
-<div align="center">
-
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/)
-[![Sponsor](https://img.shields.io/badge/Sponsor-ff69b4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sponsors/)
-
-> _Every cup of coffee fuels the next commit!_ ☕
+[![GitHub](https://img.shields.io/badge/GitHub-@abcdefak87-181717?style=for-the-badge&logo=github)](https://github.com/abcdefak87)
+[![Email](https://img.shields.io/badge/Email-abcdefak87@gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:abcdefak87@gmail.com)
 
 </div>
 
 ---
 
 <div align="center">
-
-### 📫 Let's Connect!
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abcdefak87)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abcdefak87@gmail.com)
-
----
 
 <p align="center">
   <img src="https://profile-counter.glitch.me/abcdefak87/count.svg" alt="Visitor Count" />
 </p>
 
-**Thanks for visiting!** 👾
+**Thanks for stopping by!** 👾
 
-Made with ❤️ and 🤖
+Made with ❤️ + ☕ + 🤖
 
 </div>

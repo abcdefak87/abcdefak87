@@ -1,96 +1,39 @@
-<!--
-  Welcome to my corner of GitHub 👋
--->
-
 <div align="center">
 
 # abcdefak
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=800&color=58A6FF&center=true&vCenter=true&width=400&lines=Building+with+code+%26+AI;🦀+Rust+%7C+⬢+Node.js;🤖+AI+Enthusiast)](https://git.io/typing-svg)
-
-</div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=58A6FF&center=true&vCenter=true&width=380&lines=🦀+Rust+%7C+⬢+Node.js;🤖+AI+Enthusiast;Building+with+code)](https://git.io/typing-svg)
 
 ---
 
-## 👋 About Me
+### 🧠 Focus
 
-<div align="center">
-
-**Location:** Jawa Timur, ID  
-**Focus:** Building things that matter
-
-</div>
-
-> _Human creativity + Machine efficiency = Better code_
+**Rust** · **Node.js** · **AI-Powered Development**
 
 ---
 
-## 🧠 What I Do
+### 💻 Stack
 
-<div align="center">
-
-| 🦀 **Rust** | ⬢ **Node.js** | 🤖 **AI** |
-|:---:|:---:|:---:|
-| Systems programming | Web & APIs | AI-powered development |
-
-</div>
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 ---
 
-## 💻 Tech Stack
+### 🎯 Projects
 
-<div align="center">
-
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-</div>
+[CCTV](https://github.com/abcdefak87/cctv) · [Landing Page](https://github.com/abcdefak87/landingpage) · [MikroTik Bot](https://github.com/abcdefak87/mikrotik-auto-backup-bot) · [DeployClaw](https://github.com/abcdefak87/deployclaw)
 
 ---
-
-## 🎯 Featured Projects
-
-<div align="center">
-
-### [**🎥 CCTV**](https://github.com/abcdefak87/cctv)
-Secure video streaming system with Golang backend
-
-### [**🌐 Landing Page**](https://github.com/abcdefak87/landingpage)
-Modern React + Three.js landing page with animations
-
-### [**🤖 MikroTik Bot**](https://github.com/abcdefak87/mikrotik-auto-backup-bot)
-Automated router backup via Telegram
-
-### [**🚀 DeployClaw**](https://github.com/abcdefak87/deployclaw)
-Deployment automation for OpenClaw
-
-</div>
-
----
-
-## 📫 Connect
-
-<div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-@abcdefak87-181717?style=for-the-badge&logo=github)](https://github.com/abcdefak87)
-[![Email](https://img.shields.io/badge/Email-abcdefak87@gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:abcdefak87@gmail.com)
-
-</div>
 
 ---
 
-<div align="center">
-
 <p align="center">
-  <img src="https://profile-counter.glitch.me/abcdefak87/count.svg" alt="Visitor Count" />
+  <img src="https://profile-counter.glitch.me/abcdefak87/count.svg" alt="visitors" />
 </p>
-
-**Thanks for stopping by!** 👾
-
-Made with ❤️ + ☕ + 🤖
 
 </div>

@@ -10,4 +10,16 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
+---
+
+## 🎯 Projects
+
+| Repo | Description | Stack |
+|------|-------------|-------|
+| [**🎥 cctv**](https://github.com/abcdefak87/cctv) | Secure CCTV streaming system | 🦀 Go + Fiber |
+| [**🌐 landingpage**](https://github.com/abcdefak87/landingpage) | Modern landing page dengan Three.js | ⬢ React + TS |
+| [**🤖 mikrotik-auto-backup-bot**](https://github.com/abcdefak87/mikrotik-auto-backup-bot) | Auto backup MikroTik via Telegram | ⬢ Node.js |
+| [**🗑️ auto-delete-tweet**](https://github.com/abcdefak87/auto-delete-tweet) | Browser script hapus tweet otomatis | 🌐 Vanilla JS |
+| [**📝 daily-activity**](https://github.com/abcdefak87/daily-activity) | CLI tool tracking aktivitas harian | 🖥️ CLI |
+
 </div>
